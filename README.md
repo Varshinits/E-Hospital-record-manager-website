@@ -1,10 +1,7 @@
-# TeamHackathon
+#E-Hospital Record Manager Website
 
-Hello! We are a team of 3 participating in this hackathon.
-
-Our aim in this hackathon is to digitalize the hospital data so that the doctor can have knowledge about the patients previous visits and also 
+This website is to digitalize the hospital data so that the doctor can have knowledge about the patients previous visits and also 
 to know about their previous diagnosis and prescriptions 
-
 
 We have created a web application using:  
     HTML,
