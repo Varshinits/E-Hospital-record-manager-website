@@ -12,7 +12,7 @@ We have created a web application using:
   And we have implemented an AI chatbot, which collects user data and sends to the Hospital server for Digital medical records maintenance.
   The chatbot is done using python and integrated with the web application using Streamlit.
   
-  In order to improve the security for our web application we have used md5 hashing method to securely store the password attribute in the
+In order to improve the security for our web application we have used md5 hashing method to securely store the password attribute in the
   hospital database
   
   
